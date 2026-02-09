@@ -1,0 +1,4 @@
+/* src/app/globals.css - VERSÃO MÍNIMA */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
